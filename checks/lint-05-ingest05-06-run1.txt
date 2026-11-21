@@ -1,0 +1,6 @@
+頁面 29 個｜ERROR 1｜WARN 4
+ERROR wiki/sources/src-05-8-20-32-fields.md:14: 事實句沒有書頁出處 → - 書頁 73–74、77–78、88–89 是尺寸圖，沒有中文文字層，各格的實
+WARN  wiki/sources/src-03-column-leading-margin.md: 孤兒頁（沒有其他頁面連進來）
+WARN  wiki/sources/src-04-type-area-grid-construction.md: 孤兒頁（沒有其他頁面連進來）
+WARN  wiki/sources/src-05-8-20-32-fields.md: 孤兒頁（沒有其他頁面連進來）
+WARN  wiki/sources/src-06-photo-illustration-tint.md: 孤兒頁（沒有其他頁面連進來）

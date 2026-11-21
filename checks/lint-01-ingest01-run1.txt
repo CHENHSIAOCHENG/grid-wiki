@@ -1,0 +1,26 @@
+頁面 7 個｜ERROR 14｜WARN 11
+ERROR wiki/concepts/design-philosophy.md:10: 數字 1920 在引用書頁 [('7', '')] 的原文找不到
+ERROR wiki/concepts/design-philosophy.md:10: 數字 1930 在引用書頁 [('7', '')] 的原文找不到
+ERROR wiki/concepts/grid-field.md: 斷掉的連結 [[grid-construction]]
+ERROR wiki/concepts/grid-field.md: 斷掉的連結 [[baseline-alignment]]
+ERROR wiki/concepts/grid-field.md: 斷掉的連結 [[measuring-system]]
+ERROR wiki/concepts/grid-system.md: 斷掉的連結 [[type-area]]
+ERROR wiki/concepts/grid-system.md: 斷掉的連結 [[grid-construction]]
+ERROR wiki/concepts/grid-system.md: 斷掉的連結 [[grid-8-20-32]]
+ERROR wiki/entities/josef-muller-brockmann.md: 斷掉的連結 [[grid-8-20-32]]
+ERROR wiki/entities/josef-muller-brockmann.md:4: 事實句沒有書頁出處 → 瑞士平面設計師，本書作者。
+ERROR wiki/sources/src-01-grid-philosophy.md:4: 事實句沒有書頁出處 → raw/01-grid-philosophy.md，書頁 7–14，包含前言、關
+ERROR wiki/sources/src-01-grid-philosophy.md:7: 數字 1940 在引用書頁 [('7', '')] 的原文找不到
+ERROR wiki/sources/src-01-grid-philosophy.md:16: 事實句沒有書頁出處 → - p.10「網絡系統」應為「網格系統」。
+ERROR wiki/sources/src-01-grid-philosophy.md:17: 事實句沒有書頁出處 → - p.10 列舉的七項「意願」在文字層黏成一句，wiki 已拆開。
+WARN  wiki/overview.md:4: 疑似簡體字「系」
+WARN  wiki/concepts/design-philosophy.md:4: 疑似簡體字「系」
+WARN  wiki/concepts/design-philosophy.md:8: 疑似簡體字「系」
+WARN  wiki/concepts/grid-field.md:4: 疑似簡體字「系」
+WARN  wiki/concepts/grid-field.md:12: 疑似簡體字「系」
+WARN  wiki/concepts/grid-system.md:4: 疑似簡體字「系」
+WARN  wiki/concepts/grid-system.md:13: 疑似簡體字「系」
+WARN  wiki/concepts/why-grid.md:8: 疑似簡體字「系」
+WARN  wiki/concepts/why-grid.md:13: 疑似簡體字「系」
+WARN  wiki/entities/josef-muller-brockmann.md:7: 疑似簡體字「系」
+WARN  wiki/sources/src-01-grid-philosophy.md:16: 疑似簡體字「系」

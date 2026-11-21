@@ -1,0 +1,14 @@
+頁面 11 個｜ERROR 0｜WARN 13
+WARN  wiki/concepts/grid-field.md: [[grid-construction]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/grid-field.md: [[baseline-alignment]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/grid-system.md: [[type-area]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/grid-system.md: [[grid-construction]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/grid-system.md: [[grid-8-20-32]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/measuring-system.md: [[grid-construction]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/measuring-system.md: [[leading]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/paper-sizes.md: [[grid-8-20-32]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/paper-sizes.md: [[type-area]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/typefaces.md: [[body-and-display-type]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/typefaces.md: [[body-and-display-type]] 尚未建立（討論稿已規劃）
+WARN  wiki/entities/josef-muller-brockmann.md: [[grid-8-20-32]] 尚未建立（討論稿已規劃）
+WARN  wiki/sources/src-02-paper-measure-type.md: 孤兒頁（沒有其他頁面連進來）

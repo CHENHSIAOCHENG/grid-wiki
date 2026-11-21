@@ -1,0 +1,8 @@
+頁面 23 個｜ERROR 0｜WARN 7
+WARN  wiki/concepts/compound-grid.md: [[grid-8-20-32]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/grid-system.md: [[grid-8-20-32]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/paper-sizes.md: [[grid-8-20-32]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/sketching.md: [[grid-8-20-32]] 尚未建立（討論稿已規劃）
+WARN  wiki/entities/josef-muller-brockmann.md: [[grid-8-20-32]] 尚未建立（討論稿已規劃）
+WARN  wiki/sources/src-03-column-leading-margin.md: 孤兒頁（沒有其他頁面連進來）
+WARN  wiki/sources/src-04-type-area-grid-construction.md: 孤兒頁（沒有其他頁面連進來）

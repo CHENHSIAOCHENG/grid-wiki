@@ -1,0 +1,15 @@
+頁面 23 個｜ERROR 7｜WARN 7
+ERROR wiki/sources/src-04-type-area-grid-construction.md:8: 數字 2 在引用書頁 [('57', '')] 的原文找不到
+ERROR wiki/sources/src-04-type-area-grid-construction.md:8: 數字 4 在引用書頁 [('57', '')] 的原文找不到
+ERROR wiki/sources/src-04-type-area-grid-construction.md:8: 數字 6 在引用書頁 [('57', '')] 的原文找不到
+ERROR wiki/sources/src-04-type-area-grid-construction.md:8: 數字 4 在引用書頁 [('57', '')] 的原文找不到
+ERROR wiki/sources/src-04-type-area-grid-construction.md:8: 數字 8 在引用書頁 [('57', '')] 的原文找不到
+ERROR wiki/sources/src-04-type-area-grid-construction.md:8: 數字 16 在引用書頁 [('57', '')] 的原文找不到
+ERROR wiki/sources/src-04-type-area-grid-construction.md:14: 數字 60 在引用書頁 [('61', '')] 的原文找不到
+WARN  wiki/concepts/compound-grid.md: [[grid-8-20-32]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/grid-system.md: [[grid-8-20-32]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/paper-sizes.md: [[grid-8-20-32]] 尚未建立（討論稿已規劃）
+WARN  wiki/concepts/sketching.md: [[grid-8-20-32]] 尚未建立（討論稿已規劃）
+WARN  wiki/entities/josef-muller-brockmann.md: [[grid-8-20-32]] 尚未建立（討論稿已規劃）
+WARN  wiki/sources/src-03-column-leading-margin.md: 孤兒頁（沒有其他頁面連進來）
+WARN  wiki/sources/src-04-type-area-grid-construction.md: 孤兒頁（沒有其他頁面連進來）
